@@ -1,3 +1,4 @@
+include ':test'
 include ':butterknife'
 include ':butterknife-annotations'
 include ':butterknife-compiler'
